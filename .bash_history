@@ -333,3 +333,7 @@ git remote add origin https://github.com/anujchauhan09/events-app-api-server.git
 git push -u origin main
 git pull
 git commit -m "Tertiary commit"
+git add .
+git commit -m "Tertiary commit"
+git remote add origin https://github.com/anujchauhan09/events-app-api-server.git
+git push -u origin main

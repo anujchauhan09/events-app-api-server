@@ -7,3 +7,4 @@ dedd2d8fbf13958eb27dbed0e8cc826a91173385	{"key":"make-fetch-happen:request-cache
 dfadc2b4c74e76749c725742b396de8b2eef5199	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/advisories/bulk","integrity":null,"time":1616058709692}
 5549e9dffac770c165e66c1d9c0fdea77f7247e6	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/advisories/bulk","integrity":null,"time":1616131631770}
 23c86821ca1bae56ded17d73aa5979fe7f3e81c1	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/advisories/bulk","integrity":null,"time":1616138008757}
+85a1573937ff804658e0abf9b7a4c4dfd9a5b884	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/advisories/bulk","integrity":null,"time":1616145703221}
