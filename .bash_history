@@ -326,3 +326,10 @@ git config --global user.email "your_email_on_github"
 git config --global user.email "anuj921999@gmail.com"
 git config --global user.name "anujchauhan09"
 git init
+git add .
+git commit -m "Second Commit"
+git branch -m main
+git remote add origin https://github.com/anujchauhan09/events-app-api-server.git
+git push -u origin main
+git pull
+git commit -m "Tertiary commit"
