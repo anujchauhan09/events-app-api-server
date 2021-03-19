@@ -1,0 +1,40 @@
+0 verbose cli [
+0 verbose cli   '/usr/local/nvm/versions/node/v12.14.1/bin/node',
+0 verbose cli   '/usr/local/nvm/versions/node/v12.14.1/bin/npm',
+0 verbose cli   'start'
+0 verbose cli ]
+1 info using npm@7.6.2
+2 info using node@v12.14.1
+3 timing config:load:defaults Completed in 4ms
+4 timing config:load:file:/usr/local/nvm/versions/node/v12.14.1/lib/node_modules/npm/npmrc Completed in 1ms
+5 timing config:load:builtin Completed in 2ms
+6 timing config:load:cli Completed in 2ms
+7 timing config:load:env Completed in 0ms
+8 timing config:load:file:/home/user120/sample-master-2021/.npmrc Completed in 0ms
+9 timing config:load:project Completed in 1ms
+10 timing config:load:file:/home/user120/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/usr/local/nvm/versions/node/v12.14.1/etc/npmrc Completed in 1ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:cafile Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:setUserAgent Completed in 0ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 11ms
+19 verbose npm-session 4f5c39f135a6ce99
+20 timing npm:load Completed in 19ms
+21 timing command:run-script Completed in 1ms
+22 timing command:start Completed in 10ms
+23 verbose stack Error: ENOENT: no such file or directory, open '/home/user120/sample-master-2021/package.json'
+24 verbose cwd /home/user120/sample-master-2021
+25 verbose Linux 5.4.89+
+26 verbose argv "/usr/local/nvm/versions/node/v12.14.1/bin/node" "/usr/local/nvm/versions/node/v12.14.1/bin/npm" "start"
+27 verbose node v12.14.1
+28 verbose npm  v7.6.2
+29 error code ENOENT
+30 error syscall open
+31 error path /home/user120/sample-master-2021/package.json
+32 error errno -2
+33 error enoent ENOENT: no such file or directory, open '/home/user120/sample-master-2021/package.json'
+34 error enoent This is related to npm not being able to find a file.
+35 verbose exit -2
